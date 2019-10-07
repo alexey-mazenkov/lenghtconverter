@@ -1,4 +1,4 @@
-# File with RU and EN localization packages.
+#  File with RU and EN localization packages.
 
 lang = input('''Выберите язык
 Choose language(ru/en): ''')
